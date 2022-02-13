@@ -1,2 +1,2 @@
-# cofing_nvim
+# config_nvim
 :PlugInstall
