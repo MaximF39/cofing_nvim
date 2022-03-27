@@ -1,8 +1,8 @@
-===============START INSTALL NVIM============================
+===============START INSTALL NVIM============================__
 You need install nvim
-===============END INSTALL NVIM==============================
+===============END INSTALL NVIM==============================__
 
-====================START INSTALL NVIM-PLUG==================
+====================START INSTALL NVIM-PLUG==================__
 ------LINUX----------
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
@@ -14,7 +14,7 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 
 
 github: https://github.com/junegunn/vim-plug
-========================END INSTALL NVIM-PLUG=================
+========================END INSTALL NVIM-PLUG=================__
 
 in nvim
 :PlugInstall
